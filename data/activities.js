@@ -21,7 +21,7 @@ export const activities = [
   },
   {
     index: 4,
-    title: 'Siddharth Rekhde',
+    title: 'Siddharth Rekhade',
     subTitle: 'Drake',
     avatar:
       'https://th.bing.com/th/id/OIP.tNtYsjwvq5jsZmA4WME5OQHaE7?rs=1&pid=ImgDetMain',
